@@ -1,0 +1,1682 @@
+{
+    "total": 1044,
+    "items": [
+        {
+            "hair": "brown",
+            "hair_raw": "Brown",
+            "reward_max": 99999,
+            "dates_of_birth_used": [
+                "July 27, 1967",
+                "February 27, 1967"
+            ],
+            "place_of_birth": "Louisiana",
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "age_max": null,
+            "caution": "<p>Joe Matthew Constance, a convicted felon, is wanted for his alleged involvement in the murder of his estranged wife in Calcasieu Parish, Louisiana, on June 5, 2011. It is alleged that Constance forcefully entered his estranged wife's residence, confronted other occupants of the residence, threatened to shoot two of the occupants and physically assaulted another one while demanding to know the location of his estranged wife. When Constance located his estranged wife in another area of her residence, he allegedly shot and killed her, and fled the area.</p>\r\n<p>\u00a0</p>\r\n<p>That same day, Constance was charged with first degree murder, aggravated assault and aggravated burglary, by the Fourteenth Judiciary District Court, State of Louisiana, Parish of Calcasieu, and a state warrant was issued for his arrest. A federal arrest warrant was issued by the United States District Court for the Western District of Louisiana on October 16, 2014, after Constance was charged federally with unlawful flight to avoid prosecution.</p>",
+            "remarks": null,
+            "field_offices": [
+                "neworleans"
+            ],
+            "occupations": null,
+            "weight_min": 190,
+            "suspects": null,
+            "subjects": [
+                "Violent Crime - Murders"
+            ],
+            "coordinates": [],
+            "nationality": "American",
+            "weight_max": 220,
+            "locations": null,
+            "reward_text": "The FBI is offering a reward of up to $30,000 for information leading to the arrest and conviction of Joe Matthew Constance.",
+            "height_max": 74,
+            "title": "JOE MATTHEW CONSTANCE",
+            "sex": "Male",
+            "description": "Unlawful Flight to Avoid Prosecution - First Degree Murder, Aggravated Assault, Aggravated Burglary",
+            "possible_states": [
+                "US-LA"
+            ],
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "d0280905-52b5-4c98-90be-599cd73ad306",
+            "complexion": null,
+            "publication": "2015-06-02T07:00:00",
+            "url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance",
+            "modified": "2025-04-22T13:47:23+00:00",
+            "race_raw": "White",
+            "eyes": "brown",
+            "reward_min": 10000,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Photograph taken in 2010",
+                    "large": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/@@images/image/thumb"
+                },
+                {
+                    "caption": "Photograph taken circa 1998",
+                    "large": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constance_jm1.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Constance has a tattoo on his left arm and a mole on his neck.",
+            "ncic": "W982172903",
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/murders/joe-matthew-constance/constancespanish.pdf/@@download/file/constanceSpanish.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "Joe Constance",
+                "Joe M. Constance",
+                "Joe Mathew Constance",
+                "Joseph Constance"
+            ],
+            "age_range": null,
+            "race": "white",
+            "height_min": 74,
+            "path": "/wanted/murders/joe-matthew-constance",
+            "details": null,
+            "weight": "190 to 220 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/d0280905-52b5-4c98-90be-599cd73ad306"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "February 13, 1982",
+                "January 21, 1982"
+            ],
+            "place_of_birth": "San Pedro Sula, Cortes, Honduras",
+            "poster_classification": "ten",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND EXTREMELY DANGEROUS",
+            "age_max": null,
+            "caution": "<p>Yulan Adonay Archaga Carias is charged federally in the Southern District of New York\u00a0with racketeering conspiracy, cocaine importation conspiracy, and possession and conspiracy to possess machine guns.\u00a0 As the alleged leader of MS-13 for all of Honduras, Archaga Carias allegedly controlled MS-13 criminal activity in Honduras and provided support and resources to the MS-13 enterprise\u00a0in\u00a0Central America and the United States\u00a0with firearms, narcotics, and cash. Archaga Carias is also allegedly responsible for supporting multi-ton loads of cocaine through Honduras to the United States and for ordering and participating in murders of rival gang members and others associated with MS-13.\u00a0 This case is being investigated as part of Joint Task Force Vulcan.</p>",
+            "remarks": "<p>Archaga Carias is believed to only speak Spanish.</p>",
+            "field_offices": [
+                "houston"
+            ],
+            "occupations": null,
+            "weight_min": 160,
+            "suspects": null,
+            "subjects": [
+                "Ten Most Wanted Fugitives"
+            ],
+            "coordinates": [],
+            "nationality": "Honduran",
+            "weight_max": 160,
+            "locations": null,
+            "reward_text": "The United States Government is offering a reward of up to $5,000,000 for information leading to the arrest and/or conviction of Yulan Adonay Archaga Carias.",
+            "height_max": 65,
+            "title": "YULAN ADONAY ARCHAGA CARIAS",
+            "sex": "Male",
+            "description": "Racketeering Conspiracy (RICO); Cocaine Importation Conspiracy; Possession of Machine Guns; Conspiracy to Possess Machine Guns",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "d078deee25ea4b9aa6f4ac4a681e2f65",
+            "complexion": null,
+            "publication": "2021-10-20T07:20:00",
+            "url": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias",
+            "modified": "2025-04-21T13:41:22+00:00",
+            "race_raw": "White (Hispanic)",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias2.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias2.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias2.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias3.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias3.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias3.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias4.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias4.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/carias4.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/topten/yulan-adonay-archaga-carias/cariasspanishupdate2025.pdf/@@download/file/cariasspanishupdate2025.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "Alexander Mendoza",
+                "Yulan Andony Archaga Carias",
+                "\u201cPorky\u201d "
+            ],
+            "age_range": null,
+            "race": "hispanic",
+            "height_min": 65,
+            "path": "/wanted/topten/yulan-adonay-archaga-carias",
+            "details": null,
+            "weight": "160 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/d078deee25ea4b9aa6f4ac4a681e2f65"
+        },
+        {
+            "hair": "gray",
+            "hair_raw": "Gray",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "March 9, 1952"
+            ],
+            "place_of_birth": "Idaho",
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": "<p>It is alleged that from approximately 2016 to approximately 2017, Rodney Allen devised a scheme to defraud clients of his brokerage company, KA Investments, LLC, obtain their money by false pretenses and promises, and misappropriate their money.\u00a0 Additionally, Allen allegedly misrepresented in monthly statements provided to clients that\u00a0they were earning positive returns on investments, when in fact, clients were earning negative returns on investments.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>For instance, on December 6, 2016, Allen allegedly emailed a November 2016 monthly statement to a client.\u00a0 In the statement, Allen represented that the client\u2019s account had earned 1.903 percent that month.\u00a0 In reality, the client\u2019s account had lost 36.01 percent.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>Furthermore, Allen allegedly misrepresented to clients of KA Investments, LLC that he was taking between a 14-percent and 18-percent commission on investment profits.\u00a0 In truth, he was misappropriating client deposits for his personal use, regardless of profit or loss, and at a greater percentage.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>A\u00a0federal arrest warrant was issued by the\u00a0United States\u00a0District Court, District\u00a0of\u00a0Idaho, on\u00a0January 10, 2018,\u00a0after Allen was charged with wire fraud.</p>\r\n<p>\u00a0</p>\r\n<p>Allen has been missing since April 20, 2017, and his whereabouts remains unknown.</p>",
+            "remarks": "<p>Allen may be in possession of a handgun. He may also have suicidal tendencies.</p>",
+            "field_offices": [
+                "saltlakecity"
+            ],
+            "occupations": [
+                "Investment Advisor",
+                "Construction Project Manager",
+                "Cost Estimator"
+            ],
+            "weight_min": 185,
+            "suspects": null,
+            "subjects": [
+                "White-Collar Crime"
+            ],
+            "coordinates": [],
+            "nationality": "American",
+            "weight_max": 185,
+            "locations": null,
+            "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the arrest of Rodney Allen.",
+            "height_max": 72,
+            "title": "RODNEY DEAN ALLEN",
+            "sex": "Male",
+            "description": "Wire Fraud",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "b6f013d399894b32ba3feead437b25ea",
+            "complexion": null,
+            "publication": "2018-01-09T12:24:00",
+            "url": "https://www.fbi.gov/wanted/wcc/rodney-allen",
+            "modified": "2025-04-21T13:19:23+00:00",
+            "race_raw": "White",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Photo taken in 2011",
+                    "large": "https://www.fbi.gov/wanted/wcc/rodney-allen/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/wcc/rodney-allen/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/wcc/rodney-allen/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": "W652870682",
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/wcc/rodney-allen/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/wcc/rodney-allen/allenspanish.pdf/@@download/file/AllenSpanish.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "Rod Dean"
+            ],
+            "age_range": null,
+            "race": "white",
+            "height_min": 72,
+            "path": "/wanted/wcc/rodney-allen",
+            "details": null,
+            "weight": "185 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/b6f013d399894b32ba3feead437b25ea"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "April 21, 1997"
+            ],
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": "SHOULD BE CONISDERED ARMED AND DANGEROUS AND AN ESCAPE RISK",
+            "age_max": null,
+            "caution": "<p>Joel Myrie is wanted for his alleged involvement in a drive-by shooting that occurred on June 19, 2022, in the Canarsie area of Brooklyn, New York. It is alleged that Myrie and others attempted to murder a rival gang member by firing two firearms into a crowded neighborhood street.\u00a0 A 28-year-old victim was shot and injured. Myrie was indicted in the United States District Court for the Eastern District of New York, Brooklyn, New York, and a federal warrant was issued for his arrest on August 29, 2024.\u00a0 At that time, Myrie was charged with\u00a0Conspiracy to Murder and Attempted Murder in-Aid-of Racketeering; Assault in-Aid-of Racketeering; and Possessing, Using, Brandishing and Discharging a Firearm During a Crime of Violence.</p>\r\n<p>\u00a0</p>\r\n<p>On September 10, 2024, Myrie changed his appearance to look like a woman. It is unknown if Myrie has maintained his altered appearance.</p>\r\n<p>\u00a0</p>",
+            "remarks": "<p>Myrie has ties to\u00a0Brooklyn, New York.</p>",
+            "field_offices": [
+                "newyork"
+            ],
+            "occupations": null,
+            "weight_min": 150,
+            "suspects": null,
+            "subjects": [
+                "Criminal Enterprise Investigations"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 180,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 67,
+            "title": "JOEL MYRIE",
+            "sex": "Male",
+            "description": "Conspiracy to Murder and Attempted Murder in-Aid-of Racketeering; Assault in-Aid-of Racketeering; Possessing, Using, Brandishing and Discharging a Firearm During a Crime of Violence",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "d57a9f16851a4464a3a79080a1a26e1a",
+            "complexion": null,
+            "publication": "2024-11-21T08:07:00",
+            "url": "https://www.fbi.gov/wanted/cei/joel-myrie",
+            "modified": "2025-04-21T13:14:15+00:00",
+            "race_raw": "Black",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/cei/joel-myrie/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/joel-myrie/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/cei/joel-myrie/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie2.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie2.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie2.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie3.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie3.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie3.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie4.png/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie4.png",
+                    "thumb": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie4.png/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie5.png/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie5.png",
+                    "thumb": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie5.png/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Myrie has a star tattoo on his left shoulder / torso.",
+            "ncic": "W050005060",
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/cei/joel-myrie/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/cei/joel-myrie/myrie.pdf/@@download/file/Myrie.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "\"Pookie\"",
+                "\"Antonio\""
+            ],
+            "age_range": null,
+            "race": "black",
+            "height_min": 66,
+            "path": "/wanted/cei/joel-myrie",
+            "details": null,
+            "weight": "150 to 180 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/d57a9f16851a4464a3a79080a1a26e1a"
+        },
+        {
+            "hair": null,
+            "hair_raw": null,
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": 30,
+            "caution": null,
+            "remarks": null,
+            "field_offices": null,
+            "occupations": null,
+            "weight_min": 95,
+            "suspects": null,
+            "subjects": [
+                "ViCAP Unidentified Persons"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 95,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 62,
+            "title": "JANE DOE - PLACITAS, NEW MEXICO",
+            "sex": "Female",
+            "description": "Placitas, New Mexico\r\nApril 18, 2023",
+            "possible_states": null,
+            "age_min": 15,
+            "languages": null,
+            "eyes_raw": null,
+            "uid": "fb7fd266e7154ed6991c86fa0f9b0ee9",
+            "complexion": null,
+            "publication": "2025-03-25T07:54:00",
+            "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---placitas-new-mexico",
+            "modified": "2025-04-18T15:02:19+00:00",
+            "race_raw": "Possibly Native American",
+            "eyes": null,
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---placitas-new-mexico/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---placitas-new-mexico/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---placitas-new-mexico/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/vicap/unidentified-persons/jane-doe---placitas-new-mexico/sandoval-star2.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": "15 to 30 years old",
+            "race": "native",
+            "height_min": 62,
+            "path": "/wanted/vicap/unidentified-persons/jane-doe---placitas-new-mexico",
+            "details": "<p>On April 18, 2023, the remains of an unknown female were discovered partially submerged in a creek underneath a bridge on Highway 165 near milepost 10 within the Cibola National Forest in Placitas, New Mexico. The victim was determined to be of Latin American decent, between 15 and 30 years old, 5\u20192\u201d, and weighed approximately 95 pounds. The victim was wearing a sports-bra, black shorts, and a dark blue shirt with red stars. The victim\u2019s cause of death is undetermined.</p>\r\n<p>Genetic analysis in April 2025 determined the victim to have ancestral ties to Mexico, Central America, and the Andes region of South America.</p>\r\n<p>\u00a0</p>",
+            "weight": "95 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/fb7fd266e7154ed6991c86fa0f9b0ee9"
+        },
+        {
+            "hair": "brown",
+            "hair_raw": "Brown/Auburn",
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": 58,
+            "caution": null,
+            "remarks": null,
+            "field_offices": null,
+            "occupations": null,
+            "weight_min": 145,
+            "suspects": null,
+            "subjects": [
+                "ViCAP Missing Persons"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 155,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 68,
+            "title": "OLGA BARREIRO-LOPEZ - MIAMI, FLORIDA",
+            "sex": "Female",
+            "description": "Miami, Florida\r\nJanuary 30, 2015",
+            "possible_states": null,
+            "age_min": 58,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "8c16bf67dadf4aac8e7180873dc30805",
+            "complexion": null,
+            "publication": "2025-04-18T06:55:00",
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/olga-barreiro-lopez---miami-florida",
+            "modified": "2025-04-18T12:07:11+00:00",
+            "race_raw": "White (Hispanic)",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Photograph taken in 2010",
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/olga-barreiro-lopez---miami-florida/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/olga-barreiro-lopez---miami-florida/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/olga-barreiro-lopez---miami-florida/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/vicap/missing-persons/olga-barreiro-lopez---miami-florida/2025-04-10-lopezalert.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": "58 (At time of disappearance)",
+            "race": "hispanic",
+            "height_min": 66,
+            "path": "/wanted/vicap/missing-persons/olga-barreiro-lopez---miami-florida",
+            "details": "<p>On January 30, 2015, Olga Barreiro-Lopez was last seen leaving her residence in the 11400 block of SW 72nd Terrace, Miami, Florida. At the time of her disappearance, she did not inform anyone where she was going. She is known to travel by bus and may have changed her hair color from brown to black. She is known to have frequented the Mother of Christ Catholic Church, located at 14141 SW 26th Street, Miami, Florida. She has white depigmentation spots on her arms and legs, and a scar on her chest.</p>\r\n<p>Anyone with information is asked to contact the Miami-Dade Police Department.</p>",
+            "weight": "145 to 155 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/8c16bf67dadf4aac8e7180873dc30805"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "March 8, 1948"
+            ],
+            "place_of_birth": "Allepo, Syria",
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": "<p>Yousef Kurdy is wanted for allegedly submitting claims for more than 35,000 office visits with Medicare and Medi-Cal patients, submitting hundreds of fraudulent claims when office visits never took place, billing for treating patients during times when he was not present, and failing to pay federal taxes for three years.</p>\r\n<p>\u00a0</p>\r\n<p>On January 26, 2012, a federal arrest warrant was issued for Kurdy by the United States District Court, Southern District of California, after he was charged with health care fraud; aggravated identity theft; receipt of kickbacks for patient referrals; income tax evasion; aiding and abetting; and criminal forfeiture. Kurdy was scheduled to self-surrender on January 30, 2012, but he failed to appear on that date.</p>",
+            "remarks": "<p>Kurdy has ties to or may travel to Syria, Lebanon, or the United Arab Emirates.</p>",
+            "field_offices": [
+                "sandiego"
+            ],
+            "occupations": null,
+            "weight_min": 170,
+            "suspects": null,
+            "subjects": [
+                "White-Collar Crime"
+            ],
+            "coordinates": [],
+            "nationality": "Syrian",
+            "weight_max": 170,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 68,
+            "title": "YOUSEF KURDY",
+            "sex": "Male",
+            "description": "Health Care Fraud; Aggravated Identity Theft; Receipt of Kickbacks for Patient Referrals; Income Tax Evasion; Aiding and Abetting; and Criminal Forfeiture",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "fabd733e-6f85-48a1-b954-7c91e23b626e",
+            "complexion": null,
+            "publication": "2014-10-24T07:00:00",
+            "url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy",
+            "modified": "2025-04-17T19:57:51+00:00",
+            "race_raw": "White",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Photograph taken in April 2006",
+                    "large": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": "W564321853",
+            "build": "Stocky",
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/download.pdf"
+                },
+                {
+                    "name": " ",
+                    "url": "https://www.fbi.gov/wanted/wcc/yousef-kurdy/yousef-kurdy_arabic.pdf/@@download/file/yousef-kurdy_Arabic.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "Yousef M. Kurdy"
+            ],
+            "age_range": null,
+            "race": "white",
+            "height_min": 68,
+            "path": "/wanted/wcc/yousef-kurdy",
+            "details": null,
+            "weight": "170 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/fabd733e-6f85-48a1-b954-7c91e23b626e"
+        },
+        {
+            "hair": "brown",
+            "hair_raw": "Brown",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "October 5, 2005"
+            ],
+            "place_of_birth": null,
+            "poster_classification": "missing",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": null,
+            "remarks": null,
+            "field_offices": [
+                "seattle"
+            ],
+            "occupations": null,
+            "weight_min": 100,
+            "suspects": null,
+            "subjects": [
+                "Kidnappings and Missing Persons"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 100,
+            "locations": null,
+            "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of Shelbie Lynn Dwyer.",
+            "height_max": 63,
+            "title": "SHELBIE LYNN DWYER",
+            "sex": "Female",
+            "description": "March 29, 2023\r\nGuamuchil, Sinaloa, Mexico",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "2fd9cbe842c64f2ba7a63aeee2978e21",
+            "complexion": null,
+            "publication": "2023-12-01T10:19:00",
+            "url": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer",
+            "modified": "2025-04-16T19:51:45+00:00",
+            "race_raw": "White",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer2.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer2.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer2.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "Dwyer's Tattoos",
+                    "large": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer4.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer4.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer4.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer3.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer3.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyer3.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Dwyer has the following tattoos: a rose on her right hand, a design on her right middle finger, and the word \"Blessed\" in fancy writing on her right forearm.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/kidnap/shelbie-lynn-dwyer/dwyerspanish2024.pdf/@@download/file/dwyerSpanish2024.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": null,
+            "race": "white",
+            "height_min": 63,
+            "path": "/wanted/kidnap/shelbie-lynn-dwyer",
+            "details": "<p>The FBI's Seattle Field Office is working with the Des Moines Police Department in Washington, the United States Government, and Mexican authorities to conduct a formal investigation into the disappearance of Shelbie Lynn Dwyer.\u00a0 On March 25, 2023, Dwyer voluntarily left the Des Moines, Washington, area and traveled to Mexico via car.\u00a0 Dwyer maintained sporadic communication with her family, but stopped that communication around March 29, 2023.\u00a0 Dwyer is believed to have traveled to Tijuana, Mexico. She likely traveled by plane from Tijuana, had a layover in Guadalajara, then arrived in Culiacan, Sinaloa.\u00a0 Dwyer was last believed to have been in the area of Guamuchil, Sinaloa, Mexico, on or around March 29, 2023. She has not been heard from since that time.</p>\r\n<p>\u00a0</p>",
+            "weight": "100 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/2fd9cbe842c64f2ba7a63aeee2978e21"
+        },
+        {
+            "hair": "brown",
+            "hair_raw": "Brown",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "February 27, 1975"
+            ],
+            "place_of_birth": null,
+            "poster_classification": "missing",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": null,
+            "remarks": "<p>Tyler is an American Indian and Alaska Native.\u00a0 She is a\u00a0Makah Tribal Member.\u00a0 Tyler has ties to\u00a0Tacoma and Neah Bay, Washington.</p>",
+            "field_offices": [
+                "seattle"
+            ],
+            "occupations": null,
+            "weight_min": 170,
+            "suspects": null,
+            "subjects": [
+                "Kidnappings and Missing Persons",
+                "Indian Country"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 170,
+            "locations": null,
+            "reward_text": "The FBI is offering a reward of up to $10,000 for information leading to the recovery of Giovanna Tyler and the conviction of those responsible for her disappearance.",
+            "height_max": 69,
+            "title": "GIOVANNA TYLER",
+            "sex": "Female",
+            "description": "March 28, 2004\r\nTacoma, Washington",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "3c583fb13983442ca9a456c0be45dcc4",
+            "complexion": null,
+            "publication": "2024-06-06T11:23:00",
+            "url": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler",
+            "modified": "2025-04-16T19:50:15+00:00",
+            "race_raw": null,
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/tyler1.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/tyler1.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/tyler1.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/tyler3.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/tyler3.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/tyler3.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Tyler has a multi-colored dragon tattoo on her left shoulder.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/kidnap/giovanna-tyler/download.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "\u201cJahnna\u201d"
+            ],
+            "age_range": null,
+            "race": null,
+            "height_min": 69,
+            "path": "/wanted/kidnap/giovanna-tyler",
+            "details": "<p>Giovanna Tyler disappeared from her home in the 2000 block of East Gregory St., Tacoma, Washington, under suspicious circumstances. She was 29 years old at the time and the mother of four children.\u00a0 Tyler was married, but had filed for an order of protection against her husband in August of 2003.\u00a0 In April of 2004, Tyler\u2019s parents reported her missing after they had\u00a0neither seen nor heard from her in approximately two weeks.\u00a0 She has not contacted her family since her disappearance and investigators have been unable to locate her or any persons who have had contact with her.</p>\r\n<p>\u00a0</p>",
+            "weight": "170 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/3c583fb13983442ca9a456c0be45dcc4"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "January 27, 1995"
+            ],
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": "<p>Gregory Cole, Jr. is wanted for failing to appear at trial after he removed the location-monitoring unit from his ankle mid-trial and stopped appearing in court. Cole, Jr. was found guilty in absentia on April 10, 2025, of one count of production of child pornography, one count of enticement of a minor to engage in criminal sexual activity, and one count of receipt of child pornography. On April 11, 2025, a federal warrant was issued for his arrest in the United States District Court, District of Central California, Los Angeles, California, for failure to appear at trial.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>Gregory Cole, Jr. uses a wheelchair. Investigators believe that he may be\u00a0fleeing to Mexico, or the Southwestern United States to include Nevada (possibly the Las Vegas area) or Arizona. He is believed to be traveling with his sister, Whitney Stenhouse, who is not a fugitive from the law. They are believed to be traveling in a silver Toyota sedan bearing California license plate 8RLX978.</p>",
+            "remarks": null,
+            "field_offices": [
+                "losangeles"
+            ],
+            "occupations": null,
+            "weight_min": 160,
+            "suspects": null,
+            "subjects": [
+                "Crimes Against Children"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 160,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 70,
+            "title": "GREGORY COLE, JR.",
+            "sex": "Male",
+            "description": "Failure to Appear (Production of Child Pornography; Enticement of a Minor to Engage in Criminal Sexual Activity; Receipt of Child Pornography)",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "7b7e9db865e447ca96471f6045a5ab99",
+            "complexion": null,
+            "publication": "2025-04-16T11:26:00",
+            "url": "https://www.fbi.gov/wanted/cac/gregory-cole-jr",
+            "modified": "2025-04-16T17:39:14+00:00",
+            "race_raw": "Black",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Photograph taken in March 2022",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr1.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr1.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr1.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr2.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr2.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr2.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr4.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr4.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr4.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr3.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr3.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/gregorycolejr3.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/cac/gregory-cole-jr/download.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": null,
+            "race": "black",
+            "height_min": 70,
+            "path": "/wanted/cac/gregory-cole-jr",
+            "details": null,
+            "weight": "160 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/7b7e9db865e447ca96471f6045a5ab99"
+        },
+        {
+            "hair": null,
+            "hair_raw": null,
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "information",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": null,
+            "remarks": null,
+            "field_offices": [
+                "seattle"
+            ],
+            "occupations": null,
+            "weight_min": null,
+            "suspects": null,
+            "subjects": [
+                "Seeking Information",
+                "Case of the Week"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": null,
+            "locations": null,
+            "reward_text": null,
+            "height_max": null,
+            "title": "TESLA CHARGING STATION ARSON",
+            "sex": null,
+            "description": "Unknown Suspect\r\nLacey, Washington\r\nApril 8, 2025",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": null,
+            "uid": "707c49f30bb248a3bb0d31b7629874b6",
+            "complexion": null,
+            "publication": "2025-04-11T06:47:00",
+            "url": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson",
+            "modified": "2025-04-16T13:37:05+00:00",
+            "race_raw": null,
+            "eyes": null,
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/tesla3.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/tesla3.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/tesla3.jpg/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/tesla2.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/tesla2.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/tesla2.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/seeking-info/tesla-charging-station-arson/download.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": null,
+            "race": null,
+            "height_min": null,
+            "path": "/wanted/seeking-info/tesla-charging-station-arson",
+            "details": "<p>The Federal Bureau of Investigation's Field Office in Seattle, the Lacey Police Department in Washington State,\u00a0and\u00a0the Bureau of Alcohol, Tobacco, Firearms and Explosives' Seattle Field Division are seeking information on an individual responsible for causing significant damage to a Tesla supercharger station in Lacey, Washington.\u00a0 On April 8, 2025, at approximately 1:30 a.m., an individual started a fire at the Tesla Supercharger, located at 665 Sleater Kinney Road SE, Lacey, Washington. The fire resulted in substantial damage to the station and surrounding area.</p>\r\n<p>\u00a0</p>\r\n<p>This individual may have injuries consistent with being in close proximity to an explosion or intense heat, such as a concussion, burns, or shrapnel injuries.\u00a0 The suspect is a White male, approximately 5\u201910\u201d to 6\u20192\u201d.\u00a0 He was wearing a dark jacket with a hood, gray pants, and a face covering.\u00a0 The suspect walks with a unique gait, including a slight limp with his right leg kicking out and, at times, his\u00a0right\u00a0hand held behind his back.\u00a0He was carrying a white bag which may have been plastic.</p>\r\n<p>\u00a0</p>\r\n<p>Anyone in the surrounding area of\u00a0the Target and Kohl\u2019s stores in the South Sound Center, also to include along the Chehalis Western and Woodland Creek Trails, is requested to review any\u00a0doorbell and\u00a0security camera footage which may show this person walking or accessing a vehicle from the late evening of April 7, 2025, to the early morning of April 8, 2025.</p>\r\n<p>\u00a0</p>\r\n<p>FBI Seattle has opened a Digital Media Tipline at <a data-urltype=\"/view\" href=\"https://tips.fbi.gov/digitalmedia/4d7b57775c8abfa\" data-val=\"https://tips.fbi.gov/digitalmedia/4d7b57775c8abfa\" data-linktype=\"external\">fbi.gov/lacey-tesla-arson</a> for potential witnesses to upload media, such as cellphone video or any other multimedia recordings.</p>",
+            "weight": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/707c49f30bb248a3bb0d31b7629874b6"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "May 16, 1996"
+            ],
+            "place_of_birth": "Las Vegas, Nevada",
+            "poster_classification": "law-enforcement-assistance",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "age_max": null,
+            "caution": "<p>The FBI's Las Vegas Field Office is assisting the Las Vegas Metropolitan Police Department with their search for Oswaldo Nathanahel Perez-Sanchez. On April 22, 2023, Perez-Sanchez allegedly confronted his girlfriend at her home in Las Vegas, Nevada, and then shot her to death during an argument.\u00a0 He then allegedly carjacked a witness and fled the scene.\u00a0</p>\r\n<p>\u00a0</p>\r\n<p>On April 26, 2023, a state warrant was issued for his arrest in the Justice Court, Las Vegas Township, Clark County, Nevada, charging Perez-Sanchez with\u00a0open murder - with the use of a deadly weapon or tear gas; coercion constituting domestic violence with threat or use of physical force; robbery - with the use of a deadly weapon or tear gas; and grand larceny of motor vehicle.</p>",
+            "remarks": "<p>Perez-Sanchez has ties to or may visit\u00a0Southern California and Mexico.</p>",
+            "field_offices": [
+                "lasvegas"
+            ],
+            "occupations": null,
+            "weight_min": 190,
+            "suspects": null,
+            "subjects": [
+                "Law Enforcement Assistance"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 190,
+            "locations": null,
+            "reward_text": "The FBI is offering a reward of up to $30,000 for information leading to the arrest of Oswaldo Nathanahel Perez-Sanchez.",
+            "height_max": 69,
+            "title": "OSWALDO NATHANAHEL PEREZ-SANCHEZ",
+            "sex": "Male",
+            "description": "Open Murder - With the Use of a Deadly Weapon or Tear Gas; Coercion Constituting Domestic Violence with Threat or Use of Physical Force; Robbery - With the Use of a Deadly Weapon or Tear Gas; Grand Larceny of Motor Vehicle",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": "Brown",
+            "uid": "f0afd3df02e142aaae0af3027beaf149",
+            "complexion": null,
+            "publication": "2023-06-16T11:21:00",
+            "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/oswaldo-nathanahel-perez-sanchez",
+            "modified": "2025-04-16T13:28:24+00:00",
+            "race_raw": "White (Hispanic)",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "captured",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/oswaldo-nathanahel-perez-sanchez/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/oswaldo-nathanahel-perez-sanchez/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/oswaldo-nathanahel-perez-sanchez/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Perez-Sanchez has tattoos on his chest.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/oswaldo-nathanahel-perez-sanchez/download.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": null,
+            "race": "hispanic",
+            "height_min": 69,
+            "path": "/wanted/law-enforcement-assistance/oswaldo-nathanahel-perez-sanchez",
+            "details": null,
+            "weight": "190 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/f0afd3df02e142aaae0af3027beaf149"
+        },
+        {
+            "hair": "brown",
+            "hair_raw": "Brown",
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": 38,
+            "caution": null,
+            "remarks": null,
+            "field_offices": null,
+            "occupations": null,
+            "weight_min": 158,
+            "suspects": null,
+            "subjects": [
+                "ViCAP Missing Persons"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 158,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 60,
+            "title": "WILLIAM ERIC MAY - ARKANSAS/TEXAS",
+            "sex": "Male",
+            "description": "October 28, 2024\r\nTexarkana, Arkansas or Texarkana, Texas",
+            "possible_states": null,
+            "age_min": 38,
+            "languages": null,
+            "eyes_raw": "Blue",
+            "uid": "40ed9d89f5ec4a1eac7134c10897160a",
+            "complexion": null,
+            "publication": "2025-04-15T07:35:00",
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas",
+            "modified": "2025-04-15T12:55:17+00:00",
+            "race_raw": "White",
+            "eyes": "blue",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/may1.jpg/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/may1.jpg",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/may1.jpg/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "May often wears a beard and mustache.  He has a tattoo of the Dodge Ram logo on his right arm close to his shoulder and a burn scar on his back near his waistline.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/vicap/missing-persons/william-eric-may---arkansastexas/may.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": "38 years old at time of disappearance",
+            "race": "white",
+            "height_min": 60,
+            "path": "/wanted/vicap/missing-persons/william-eric-may---arkansastexas",
+            "details": "<p>On October 28, 2024, William Eric May was last seen on video at the Walmart on the Arkansas-side of Texarkana.\u00a0 He left Walmart on a light purple bicycle wearing a black polo shirt, blue jeans, and tan shoes.\u00a0 He was later spotted riding the light purple bicycle around Texas Boulevard and Elizabeth Street in Texarkana, Texas.\u00a0 It is unknown if William is on the Texas or Arkansas side of Texarkana, or if he left the city entirely.\u00a0\u00a0</p>\r\n<p>\u00a0</p>",
+            "weight": "158 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/40ed9d89f5ec4a1eac7134c10897160a"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black (Balding/Receding)",
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": 49,
+            "caution": null,
+            "remarks": null,
+            "field_offices": null,
+            "occupations": null,
+            "weight_min": 160,
+            "suspects": null,
+            "subjects": [
+                "ViCAP Missing Persons"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 170,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 67,
+            "title": "ROBERT FRANK URTON - LAKESIDE, ARIZONA",
+            "sex": "Male",
+            "description": "Lakeside, Arizona\r\nJune 26, 1997",
+            "possible_states": null,
+            "age_min": 49,
+            "languages": null,
+            "eyes_raw": "Green",
+            "uid": "2f497c77e23c4df1880e79d50afc217c",
+            "complexion": null,
+            "publication": "2025-04-11T11:50:00",
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-frank-urton---lakeside-arizona",
+            "modified": "2025-04-11T17:03:04+00:00",
+            "race_raw": null,
+            "eyes": "green",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Date of Photograph Unknown",
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-frank-urton---lakeside-arizona/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-frank-urton---lakeside-arizona/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-frank-urton---lakeside-arizona/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Urton has full sleeve tattoos on each arm and a tattoo on his chest (unknown descriptions).",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/vicap/missing-persons/robert-frank-urton---lakeside-arizona/vicap-alert-2025-04-08.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": "49 years old at time of disappearance",
+            "race": null,
+            "height_min": 67,
+            "path": "/wanted/vicap/missing-persons/robert-frank-urton---lakeside-arizona",
+            "details": "<p>Robert Frank Urton was last seen on June 26, 1997, in Lakeside, Arizona, when he left his residence with a male and female acquaintance. Urton had told his roommate to pick him up in Mesa, Arizona, if he did not return in a few days. The roommate advised that personal items Urton usually took when going away for a week or two were left behind in his apartment. Also missing was Urton\u2019s dog. Urton has not been seen or heard from since.</p>\r\n<p>Investigators are asking anyone with information regarding this case to contact the Bureau of Indian Affairs.</p>",
+            "weight": "160 to 170 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/2f497c77e23c4df1880e79d50afc217c"
+        },
+        {
+            "hair": "brown",
+            "hair_raw": "Brown, short/buzzed",
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": 36,
+            "caution": null,
+            "remarks": null,
+            "field_offices": null,
+            "occupations": null,
+            "weight_min": 170,
+            "suspects": null,
+            "subjects": [
+                "ViCAP Missing Persons"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": 180,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 69,
+            "title": "JOHN BALISTRERI - MIDDLETON, WISCONSIN",
+            "sex": "Male",
+            "description": "Middleton, Wisconsin\r\nSeptember 15, 2017",
+            "possible_states": null,
+            "age_min": 36,
+            "languages": null,
+            "eyes_raw": "Hazel",
+            "uid": "d404eb56b14f4d6e98e7cc2b3eb3bfc8",
+            "complexion": null,
+            "publication": "2025-04-11T11:28:00",
+            "url": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin",
+            "modified": "2025-04-11T16:42:03+00:00",
+            "race_raw": "White",
+            "eyes": "hazel",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Date of Photograph Unknown",
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/@@images/image/thumb"
+                },
+                {
+                    "caption": "Tattoo upper left arm worm with a backwards hat\r\nand prison bar eyes",
+                    "large": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/johnbalistreritattoo.png/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/johnbalistreritattoo.png",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/johnbalistreritattoo.png/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Balistreri has pierced ears and multiple tattoos located on both arms and his back.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin/vicap-alert-2025-04-07-balistreri.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": "36 years old at time of disappearance",
+            "race": "white",
+            "height_min": 67,
+            "path": "/wanted/vicap/missing-persons/john-balistreri---middleton-wisconsin",
+            "details": "<p>On October 2, 2017, John Balistreri was reported missing from his home in Middleton, Wisconsin. Balistreri had not been heard from or seen since September 15, 2017. He last spoke with close family members on September 11, 2017. Balistreri did not own a vehicle prior to his disappearance, and his bank accounts have not had any activity since September 15, 2017. At the time of his disappearance, he was 36 years old, had short/buzzed brown hair and hazel eyes.</p>\r\n<p>Balistreri has the following tattoos:</p>\r\n<p>Left lower arm \u2013 \u2018Arianna\u2019 in cursive font with 4-5 stars around the lettering; mom/dad hearts banner<br />Left upper arm -worm with hat and eyes are prison bars (pictured above); 'smile now cry later' writing, masks, stars<br />Right upper arm - skull with hair (top right shoulder)<br />Right lower arm - cross<br />Back \u2013\u2018Balistreri\u2019 in old English letters<br /><br /></p>\r\n<p>Anyone with information regarding Balistreri\u2019s disappearance is asked to contact the Middleton Police Department.</p>",
+            "weight": "170 to 180 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/d404eb56b14f4d6e98e7cc2b3eb3bfc8"
+        },
+        {
+            "hair": "brown",
+            "hair_raw": "Light Brown",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "December 7, 1965"
+            ],
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": 21,
+            "caution": null,
+            "remarks": null,
+            "field_offices": null,
+            "occupations": null,
+            "weight_min": null,
+            "suspects": null,
+            "subjects": [
+                "ViCAP Homicides and Sexual Assaults"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": null,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 65,
+            "title": "MOLLY MONETTE HOGAN - OKLAHOMA",
+            "sex": "Female",
+            "description": "Oklahoma\r\nJune 24, 1987",
+            "possible_states": null,
+            "age_min": 21,
+            "languages": null,
+            "eyes_raw": null,
+            "uid": "ff4f35fe43d74707b01f25f6fc2be8ce",
+            "complexion": null,
+            "publication": "2025-04-11T07:40:00",
+            "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/molly-monette-hogan---oklahoma",
+            "modified": "2025-04-11T12:49:12+00:00",
+            "race_raw": "White",
+            "eyes": null,
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": "Date of Photograph Unknown",
+                    "large": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/molly-monette-hogan---oklahoma/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/molly-monette-hogan---oklahoma/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/molly-monette-hogan---oklahoma/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/vicap/homicides-and-sexual-assaults/molly-monette-hogan---oklahoma/vicap-alert-2025-04-06.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": null,
+            "age_range": "21 years old at time of death",
+            "race": "white",
+            "height_min": 65,
+            "path": "/wanted/vicap/homicides-and-sexual-assaults/molly-monette-hogan---oklahoma",
+            "details": "<p>On June 24, 1987, an unidentified white female was located approximately one mile west of interstate 35 south (I-35) and one quarter mile west of the I-35 Paoli exit, about 50 miles south of Oklahoma City, Oklahoma. The cause of death was ruled a homicide, as the victim had been shot in the head. She was clothed in ankle socks with blue and red stripes, a Camp Beverly Hills brand large blue sweater. It was estimated the victim likely died three to four weeks prior. Investigators were not able to determine if the location where the body was found was the same location that the homicide occurred.</p>\r\n<p>Investigative Genetic Genealogy was conducted and in October 2024, the victim was identified as Molly Monette Hogan. Hogan was from Alabama, and it is unknown when or how she came to Oklahoma. Oklahoma State Bureau of Investigation is seeking any information from the public regarding Molly Hogan.</p>",
+            "weight": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/ff4f35fe43d74707b01f25f6fc2be8ce"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "June 15, 2001"
+            ],
+            "place_of_birth": "Tepatitlan de Morelos, Jalisco, Mexico",
+            "poster_classification": "law-enforcement-assistance",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "age_max": null,
+            "caution": "<p>The FBI's Oklahoma City Field Office is assisting the Enid Police Department in Oklahoma, with their search for Jonathan Adrian Baez Perez. Baez Perez is wanted for allegedly shooting a man outside of a store in Enid, Oklahoma, on May 18, 2024.</p>\r\n<p>\u00a0</p>\r\n<p>On May 21, 2024, a state warrant was issued for his arrest in the District Court of the Fourth Judicial District of the State of Oklahoma, Garfield County, charging Baez Perez with assault and battery with deadly weapon; possession of firearm after former felony conviction; and larceny of automobile, aircraft, or other motor vehicle.\u00a0</p>",
+            "remarks": "<p>Baez Perez has ties to or may visit Enid, Oklahoma; Kingfisher, Oklahoma; and Guadalajara, Mexico.</p>",
+            "field_offices": [
+                "oklahomacity"
+            ],
+            "occupations": null,
+            "weight_min": 160,
+            "suspects": null,
+            "subjects": [
+                "Law Enforcement Assistance"
+            ],
+            "coordinates": [],
+            "nationality": "Mexican",
+            "weight_max": 160,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 67,
+            "title": "JONATHAN ADRIAN BAEZ PEREZ",
+            "sex": "Male",
+            "description": "Assault and Battery with Deadly Weapon; Possession of Firearm After Former Felony Conviction; Larceny of Automobile, Aircraft, or Other Motor Vehicle",
+            "possible_states": null,
+            "age_min": null,
+            "languages": [
+                "English",
+                "Spanish"
+            ],
+            "eyes_raw": "Brown",
+            "uid": "5187b47ed74c4cd69afeef4fe8e01ccf",
+            "complexion": null,
+            "publication": "2025-04-10T13:03:00",
+            "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez",
+            "modified": "2025-04-10T18:55:19+00:00",
+            "race_raw": "White (Hispanic)",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/baezperez1.png/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/baezperez1.png",
+                    "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/baezperez1.png/@@images/image/thumb"
+                },
+                {
+                    "caption": "",
+                    "large": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/baezperez2.png/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/baezperez2.png",
+                    "thumb": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/baezperez2.png/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Baez Perez has tattoos on his arm and hand.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez/download.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "Jonathon Vallez-Perez",
+                "Jonathan Valles-Perez",
+                "Jonathan Adrian Ala Torrre",
+                "Jonathan Adrian Ruiz",
+                "\"Pechugas\""
+            ],
+            "age_range": null,
+            "race": "hispanic",
+            "height_min": 67,
+            "path": "/wanted/law-enforcement-assistance/jonathan-adrian-baez-perez",
+            "details": null,
+            "weight": "160 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/5187b47ed74c4cd69afeef4fe8e01ccf"
+        },
+        {
+            "hair": "black",
+            "hair_raw": "Black",
+            "reward_max": 0,
+            "dates_of_birth_used": [
+                "August 5, 1990"
+            ],
+            "place_of_birth": "Mexico",
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": "SHOULD BE CONSIDERED ARMED AND DANGEROUS",
+            "age_max": null,
+            "caution": "<p>Miguel Angel Aguilar Ojeda is wanted for allegedly killing his wife on October 27, 2024, in Philadelphia, Pennsylvania.\u00a0 On October 30, 2024, the Commonwealth of Pennsylvania, County of Philadelphia, issued an arrest warrant for Ojeda after he was charged with Murder, Possessing Instruments of Crime, Abuse of Corpse, and Tampering with Evidence.\u00a0 On November 21, 2024, a federal arrest warrant was issued for Ojeda in the United States District Court, Eastern District of Pennsylvania, Philadelphia, Pennsylvania, after he was charged with\u00a0Unlawful Flight to Avoid Prosecution.\u00a0</p>\r\n<p>\u00a0</p>",
+            "remarks": "<p>Ojeda has ties to Camden, New Jersey; Philadelphia, Pennsylvania; and Mexico.</p>",
+            "field_offices": [
+                "philadelphia"
+            ],
+            "occupations": [
+                "Painter",
+                "Construction Worker"
+            ],
+            "weight_min": 240,
+            "suspects": null,
+            "subjects": [
+                "Violent Crimes - Murders"
+            ],
+            "coordinates": [],
+            "nationality": "Mexican",
+            "weight_max": 240,
+            "locations": null,
+            "reward_text": null,
+            "height_max": 64,
+            "title": "MIGUEL ANGEL AGUILAR OJEDA",
+            "sex": "Male",
+            "description": "Unlawful Flight to Avoid Prosecution - Murder, Possessing Instruments of Crime, Abuse of Corpse, Tampering with Evidence",
+            "possible_states": null,
+            "age_min": null,
+            "languages": [
+                "Spanish",
+                "English"
+            ],
+            "eyes_raw": "Brown",
+            "uid": "9f9cc060851c445a99afee99bdada94b",
+            "complexion": null,
+            "publication": "2025-04-03T11:36:00",
+            "url": "https://www.fbi.gov/wanted/murders/miguel-angel-aguilar-ojeda",
+            "modified": "2025-04-10T13:38:10+00:00",
+            "race_raw": "White (Hispanic)",
+            "eyes": "brown",
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/murders/miguel-angel-aguilar-ojeda/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/murders/miguel-angel-aguilar-ojeda/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/murders/miguel-angel-aguilar-ojeda/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": "Ojeda has tattoos on both of his wrists, including the name \"Miguelito\" in black script with a yellow crown on his right wrist.",
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/murders/miguel-angel-aguilar-ojeda/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/murders/miguel-angel-aguilar-ojeda/ojedaspanish.pdf/@@download/file/OjedaSpanish.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "Miguel Aguilar",
+                "\"Cara Gorda\""
+            ],
+            "age_range": null,
+            "race": "hispanic",
+            "height_min": 64,
+            "path": "/wanted/murders/miguel-angel-aguilar-ojeda",
+            "details": null,
+            "weight": "240 pounds",
+            "pathId": "https://api.fbi.gov/@wanted-person/9f9cc060851c445a99afee99bdada94b"
+        },
+        {
+            "hair": null,
+            "hair_raw": null,
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": "<p>On June 21, 2024, a federal arrest warrant was issued for Carlos Gonzalez, date of birth, May 1, 1992, in the United States District Court, Central District of California, Los Angeles, California, after he was charged with\u00a0Distribution of Methamphetamine.</p>",
+            "remarks": null,
+            "field_offices": [
+                "losangeles"
+            ],
+            "occupations": null,
+            "weight_min": null,
+            "suspects": null,
+            "subjects": [
+                "Criminal Enterprise Investigations"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": null,
+            "locations": null,
+            "reward_text": null,
+            "height_max": null,
+            "title": "CARLOS GONZALEZ",
+            "sex": null,
+            "description": "Distribution of Methamphetamine",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": null,
+            "uid": "ed1947f0f0624075b076e58d97d05f67",
+            "complexion": null,
+            "publication": "2024-08-13T12:28:00",
+            "url": "https://www.fbi.gov/wanted/cei/carlos-gonzalez",
+            "modified": "2025-04-10T13:36:23+00:00",
+            "race_raw": null,
+            "eyes": null,
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/cei/carlos-gonzalez/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/carlos-gonzalez/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/cei/carlos-gonzalez/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/cei/carlos-gonzalez/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/cei/carlos-gonzalez/carlos-gonzalez-spanish-final.pdf/@@download/file/carlos-gonzalez.Spanish.final.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "\"Migo\""
+            ],
+            "age_range": null,
+            "race": null,
+            "height_min": null,
+            "path": "/wanted/cei/carlos-gonzalez",
+            "details": null,
+            "weight": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/ed1947f0f0624075b076e58d97d05f67"
+        },
+        {
+            "hair": null,
+            "hair_raw": null,
+            "reward_max": 0,
+            "dates_of_birth_used": null,
+            "place_of_birth": null,
+            "poster_classification": "default",
+            "possible_countries": null,
+            "legat_names": null,
+            "warning_message": null,
+            "age_max": null,
+            "caution": "<p>On June 21, 2024, a federal arrest warrant was issued for Eladio Gastelum, date of birth,\u00a0September 16, 1990, in the United States District Court, Central District of California, Los Angeles, California, after he was charged with\u00a0Distribution of Methamphetamine.</p>",
+            "remarks": null,
+            "field_offices": [
+                "losangeles"
+            ],
+            "occupations": null,
+            "weight_min": null,
+            "suspects": null,
+            "subjects": [
+                "Criminal Enterprise Investigations"
+            ],
+            "coordinates": [],
+            "nationality": null,
+            "weight_max": null,
+            "locations": null,
+            "reward_text": null,
+            "height_max": null,
+            "title": "ELADIO GASTELUM",
+            "sex": null,
+            "description": "Distribution of Methamphetamine",
+            "possible_states": null,
+            "age_min": null,
+            "languages": null,
+            "eyes_raw": null,
+            "uid": "93e0cd9810404a3a820f33ca61f92f5a",
+            "complexion": null,
+            "publication": "2024-08-13T12:18:00",
+            "url": "https://www.fbi.gov/wanted/cei/eladio-gastelum",
+            "modified": "2025-04-10T13:35:00+00:00",
+            "race_raw": null,
+            "eyes": null,
+            "reward_min": 0,
+            "status": "na",
+            "person_classification": "Main",
+            "images": [
+                {
+                    "caption": null,
+                    "large": "https://www.fbi.gov/wanted/cei/eladio-gastelum/@@images/image/large",
+                    "original": "https://www.fbi.gov/wanted/cei/eladio-gastelum/@@images/image",
+                    "thumb": "https://www.fbi.gov/wanted/cei/eladio-gastelum/@@images/image/thumb"
+                }
+            ],
+            "scars_and_marks": null,
+            "ncic": null,
+            "build": null,
+            "files": [
+                {
+                    "name": "English",
+                    "url": "https://www.fbi.gov/wanted/cei/eladio-gastelum/download.pdf"
+                },
+                {
+                    "name": "EN ESPAOL",
+                    "url": "https://www.fbi.gov/wanted/cei/eladio-gastelum/eladio-gastelum-spanish-final.pdf/@@download/file/eladio-gastelum.Spanish.final.pdf"
+                }
+            ],
+            "additional_information": null,
+            "aliases": [
+                "\"Layo\""
+            ],
+            "age_range": null,
+            "race": null,
+            "height_min": null,
+            "path": "/wanted/cei/eladio-gastelum",
+            "details": null,
+            "weight": null,
+            "pathId": "https://api.fbi.gov/@wanted-person/93e0cd9810404a3a820f33ca61f92f5a"
+        }
+    ],
+    "page": 1
+}
